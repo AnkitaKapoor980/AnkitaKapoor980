@@ -1,9 +1,9 @@
-##Hi there! 👋 
-    I'm Ankita Kapoor<br/>
+# Hi there! 👋 
+🌟 I'm Ankita Kapoor<br/>
 🎓 B.Tech in Data Science <br/>
 🏫 NIIT University, Rajasthan<br/>
 💻 I’m passionate about exploring data, AI, and creating impactful solutions.<br/>
-I thrive on blending academic research with real-world applications, mentoring teams, and managing large-scale projects.
+🌱 I thrive on blending academic research with real-world applications, mentoring teams, and managing large-scale projects.
 
 
 ## 🌐 Socials:
