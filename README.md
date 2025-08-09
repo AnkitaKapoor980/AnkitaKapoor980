@@ -59,10 +59,10 @@
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&theme=dark" />
 
 ### 🛠️ **Development & Tools**
-<img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,firebase,docker,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,docker,git,github,vscode&theme=dark" />
 
 ### 📊 **Data & Analytics**
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,azure,aws&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,powerbi&theme=dark" />
 
 </div>
 
