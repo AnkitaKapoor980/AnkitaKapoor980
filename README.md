@@ -74,26 +74,82 @@
 
 <div align="center">
 
-<a href="https://github.com/AnkitaKapoor980/Predictive-Modeling-Case-Studies">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnkitaKapoor980&repo=Predictive-Modeling-Case-Studies&theme=radical&hide_border=true" />
-</a>
+<table>
+<tr>
+<td width="50%">
 
-<a href="https://github.com/AnkitaKapoor980/Market-Risk-Assessment">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnkitaKapoor980&repo=Market-Risk-Assessment&theme=radical&hide_border=true" />
-</a>
+<h3 align="center">🔮 Predictive Modeling Case Studies</h3>
+<div align="center">
 
-<a href="https://github.com/AnkitaKapoor980/Multi-Agent-Traffic-Management-using-Reinforcement-Learning">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnkitaKapoor980&repo=Multi-Agent-Traffic-Management-using-Reinforcement-Learning&theme=radical&hide_border=true" />
-</a>
+[![Repo](https://img.shields.io/badge/🔗_View_Project-FF6B6B?style=for-the-badge&logoColor=white)](https://github.com/AnkitaKapoor980/Predictive-Modeling-Case-Studies)
 
-<a href="https://github.com/AnkitaKapoor980/AI-Code-Review-Assistant">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnkitaKapoor980&repo=AI-Code-Review-Assistant&theme=radical&hide_border=true" />
-</a>
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![ML](https://img.shields.io/badge/ML-00D2FF?style=flat-square&logo=tensorflow&logoColor=white)
+
+**Machine learning case studies across diverse domains**
+*From finance to astronomy with end-to-end implementations*
+
+</div>
+</td>
+<td width="50%">
+
+<h3 align="center">📊 Market Risk Assessment</h3>
+<div align="center">
+
+[![Repo](https://img.shields.io/badge/🔗_View_Project-4ECDC4?style=for-the-badge&logoColor=white)](https://github.com/AnkitaKapoor980/Market-Risk-Assessment)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Finance](https://img.shields.io/badge/Finance-00875A?style=flat-square&logo=coursera&logoColor=white)
+![Analytics](https://img.shields.io/badge/Analytics-FF9500?style=flat-square&logo=googleanalytics&logoColor=white)
+
+**Advanced portfolio risk metrics computation**
+*Quantify risk-adjusted performance & downside exposure*
+
+</div>
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+<h3 align="center">🚦 Multi-Agent Traffic Management System for Smart Cities using Reinforcement Learning </h3>
+<div align="center">
+
+[![Repo](https://img.shields.io/badge/🔗_View_Project-A8E6CF?style=for-the-badge&logoColor=white)](https://github.com/AnkitaKapoor980/Multi-Agent-Traffic-Management-using-Reinforcement-Learning)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![RL](https://img.shields.io/badge/RL-FF6B35?style=flat-square&logo=openai&logoColor=white)
+![AI](https://img.shields.io/badge/Multi_Agent-00D4AA?style=flat-square&logo=robot&logoColor=white)
+
+**Multi-agent reinforcement learning for smart cities**
+*Real-time traffic optimization with dynamic adaptation*
+
+</div>
+</td>
+<td width="50%">
+
+<h3 align="center">🤖 AI Code Review Assistant</h3>
+<div align="center">
+
+[![Repo](https://img.shields.io/badge/🔗_View_Project-DDA0DD?style=for-the-badge&logoColor=white)](https://github.com/AnkitaKapoor980/AI-Code-Review-Assistant)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-FF4B4B?style=flat-square&logo=huggingface&logoColor=white)
+![AI](https://img.shields.io/badge/AI-00D2FF?style=flat-square&logo=openai&logoColor=white)
+
+**Automated AI-powered code review system**
+*Bug detection, improvements & quality assurance*
+
+</div>
+</td>
+</tr>
+</table>
 
 </div>
 
 
----
+<!-- ANIMATED SEPARATOR -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 🎯 Current Focus
 
@@ -128,7 +184,9 @@ class AnkitaKapoor:
 
 </div>
 
----
+
+<!-- ANIMATED SEPARATOR -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 💡 Random Dev Quote
 
@@ -138,7 +196,9 @@ class AnkitaKapoor:
 
 </div>
 
----
+<!-- ANIMATED SEPARATOR -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 
 ## <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="35"> **Visitor Analytics**
 
@@ -156,7 +216,9 @@ class AnkitaKapoor:
 
 </div>
 
----
+
+<!-- ANIMATED SEPARATOR -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <div align="center">
 
@@ -165,10 +227,10 @@ class AnkitaKapoor:
 <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100">
 
 **Always open for:**
-- 🤝 Collaboration on exciting projects
-- 💡 Innovative AI/ML ideas  
-- 🎓 Research opportunities
-- 💼 Professional opportunities
+🤝 Collaboration on exciting projects
+💡 Innovative AI/ML ideas  
+🎓 Research opportunities
+💼 Professional opportunities
 
 </div>
 
