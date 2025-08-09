@@ -24,7 +24,7 @@
 🎓 **B.Tech in Data Science** | NIIT University, Rajasthan  
 💻 **Passionate** about exploring data, AI, and creating impactful solutions  
 🌱 **Expertise** in blending academic research with real-world applications  
-🎯 **Focus Areas**: Machine Learning, Risk Assessment, Computer Vision  
+🎯 **Focus Areas**: Machine Learning, Data Analytics, Computer Vision  
 📈 **Mission**: Transforming data into actionable insights
 
 <br clear="both"/>
